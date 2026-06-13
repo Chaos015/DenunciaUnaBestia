@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DenunciaUnaBestia.Api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8e92744eb0a3c2b3d91c57d17e35b7f4d7bca104")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0e140ddbf0fbfaea395949a8968fb9393b830a34")]
 [assembly: System.Reflection.AssemblyProductAttribute("DenunciaUnaBestia.Api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DenunciaUnaBestia.Api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
